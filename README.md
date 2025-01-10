@@ -1,5 +1,5 @@
 # Witaj na moim profilu! 👋
-- [link do mojej strony](turekkerem.github.io)
+- [link do mojej strony](https://turekkerem.github.io)
 ## O mnie
 Cześć! 👋 Jestem pasjonatem matematyki i programowania, a w szczególności uwielbiam:  
 - **Zagadki logiczne**, które pozwalają rozwinąć kreatywne myślenie. 🧩  
