@@ -1,5 +1,6 @@
 # Witaj na moim profilu! 👋
 - [link do mojej strony](https://turekkerem.github.io)
+# Link do repozytorium powiązanego z artukułem (WDI) [Link](https://paperswithcode.com/paper/chess-quick-and-robust-detection-of-chess)
 ## O mnie
 Cześć! 👋 Jestem pasjonatem matematyki i programowania, a w szczególności uwielbiam:  
 - **Zagadki logiczne**, które pozwalają rozwinąć kreatywne myślenie. 🧩  
