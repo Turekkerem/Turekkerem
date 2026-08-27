@@ -1,4 +1,4 @@
-# Hi there, I'm Kerem Turek 👋
+# Hi there, I'm Kerem!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Turekkerem&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I am a passionate **Cybersecurity Researcher & Developer** with a deep-rooted fascination for the mechanics of offensive security, low-level system internals, and modern cryptography. My approach to security is rooted in the philosophy that to defend effectively, one must understand how systems break and how adversaries operate at the architectural level.
 
@@ -16,21 +16,21 @@ Currently, I spend my time engineering custom offensive tooling for research pur
 
 ---
 
-## 🔬 Core Areas of Expertise & Interest
+## Core Areas of Expertise & Interest
 
-### 🛡️ Offensive Security & Malware Research
+### Offensive Security & Malware Research
 * **Custom Tooling:** Developing bespoke red-teaming utilities from scratch (C/C++, Go, Assembly) to understand API hooking, evasion, and stealth delivery mechanisms.
 * **EDR/AV Evasion Research:** Analyzing telemetry generation, behavioral analysis, and how modern detection engineering responds to non-standard persistence and execution chains.
 * **Windows Internals:** Deep working knowledge of the Windows API, NT internals, process injection techniques, and registry manipulation.
 
-### 🔐 Cryptography (Classical & Post-Quantum)
+### Cryptography (Classical & Post-Quantum)
 * **Classical & Traditional Cryptography:** Implementation and cryptanalysis of classical ciphers, symmetric encryption standards (AES), and asymmetric primitives (RSA, ECC).
 * **Post-Quantum Cryptography (PQC):** Researching lattice-based cryptography, hash-based signatures, and migration strategies to secure systems against quantum adversaries (NIST PQC standards).
 * **Crypto Downgrade & Protocol Flaws:** Studying downgrade vulnerabilities, implementation flaws, and cryptographic misconfigurations in enterprise software and operating systems and the most common: Block Cipher modes misuse.
 
 ---
 
-## 🛠️ Featured Projects & Research
+## Featured Projects & Research
 
 Here is a selection of projects showcasing my hands-on experience with low-level programming and system security:
 
@@ -60,7 +60,7 @@ Here is a selection of projects showcasing my hands-on experience with low-level
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Languages:** C, C++, Python, Go, x86/x64 Assembly, Bash
 * **Operating Systems:** Windows (Internals, Win32 API), Linux (Kernel/Userspace)
@@ -69,7 +69,7 @@ Here is a selection of projects showcasing my hands-on experience with low-level
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Turekkerem&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -78,7 +78,7 @@ Here is a selection of projects showcasing my hands-on experience with low-level
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **GitHub:** [github.com/Turekkerem](https://github.com/Turekkerem)
 * **Focus:** Always open to discussing advanced cybersecurity research, malware analysis, or cryptographic implementations.
