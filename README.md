@@ -67,13 +67,7 @@ Here is a selection of projects showcasing my hands-on experience with low-level
 * **Security Tooling:** IDA Pro, Ghidra, x64dbg, Wireshark, Metasploit, Burp Suite
 * **Cryptographic Libraries:** OpenSSL, libsodium, custom primitive implementations
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turekkerem&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ---
 
