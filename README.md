@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Turekkerem&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Cryptography%20%7C%20Malware%20Dev-blue?style=flat-square&logo=security" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Continuous%20Learning-success?style=flat-square" alt="Status" />
+  <a href="https://turekkerem.github.io"><img src="https://img.shields.io/badge/Portfolio-turekkerem.github.io-3b82f6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
