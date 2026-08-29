@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://turekkerem.github.io">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-turekkerem.github.io-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%20Explore%20My%20Portfolio-turekkerem.github.io-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
