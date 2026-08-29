@@ -25,7 +25,7 @@ Currently, I spend my time engineering custom offensive tooling for research pur
 ## Core Areas of Expertise & Interest
 
 ### Offensive Security & Malware Research
-* **Custom Tooling:** Developing bespoke red-teaming utilities from scratch (C/C++, Go, Assembly) to understand API hooking, evasion, and stealth delivery mechanisms.
+* **Custom Tooling:** Developing bespoke red-teaming utilities from scratch (Python / C++) to understand API hooking, evasion, and stealth delivery mechanisms.
 * **EDR/AV Evasion Research:** Analyzing telemetry generation, behavioral analysis, and how modern detection engineering responds to non-standard persistence and execution chains.
 * **Windows Internals:** Deep working knowledge of the Windows API, NT internals, process injection techniques, and registry manipulation.
 
