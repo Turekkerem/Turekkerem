@@ -68,10 +68,10 @@ Here is a selection of projects showcasing my hands-on experience with low-level
 
 ## Tech Stack & Tools
 
-* **Languages:** C, C++, Python, Go, x86/x64 Assembly, Bash
-* **Operating Systems:** Windows (Internals, Win32 API), Linux (Kernel/Userspace)
-* **Security Tooling:** IDA Pro, Ghidra, x64dbg, Wireshark, Metasploit, Burp Suite
-* **Cryptographic Libraries:** OpenSSL, libsodium, custom primitive implementations
+* **Languages:**  C++, Python, Bash
+* **Operating Systems:** Windows (Win32 API), Linux (Kernel/Userspace)
+* **Security Tooling:** Ghidra, x64dbg, Wireshark, Metasploit, Burp Suite
+* **Cryptographic Libraries:** OpenSSL, OpenSSH, OpenPGP and implementations such as classical PyCryptoDome
 
 
 
@@ -80,6 +80,7 @@ Here is a selection of projects showcasing my hands-on experience with low-level
 ## Connect With Me
 
 * **GitHub:** [github.com/Turekkerem](https://github.com/Turekkerem)
+* **Page** [turekkerem.github.io](turekkerem.github.io)
 * **Focus:** Always open to discussing advanced cybersecurity research, malware analysis, or cryptographic implementations.
 
 > *"He who does not uderstand how a system fails cannot claim to understand how it works."*
