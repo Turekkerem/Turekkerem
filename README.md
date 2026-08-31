@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a passionate **Cybersecurity Researcher & Developer** with a deep-rooted fascination for the mechanics of offensive security, low-level system internals, and modern cryptography. My approach to security is rooted in the philosophy that to defend effectively, one must understand how systems break and how adversaries operate at the architectural level.
+I am a passionate **Cybersecurity Researcher** with a deep-rooted fascination for the mechanics of offensive security, low-level system internals, and modern cryptography. My approach to security is rooted in the philosophy that to defend effectively, one must understand how systems break and how adversaries operate at the architectural level.
 
 Currently, I spend my time engineering custom offensive tooling for research purposes, exploring the frontiers of **Post-Quantum Cryptography (PQC)**, and occasionally engaging in rapid, creative prototyping ("vibecoding") to test out new paradigms. 
 
