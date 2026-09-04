@@ -49,10 +49,10 @@ In my free time, I am a fan of "vibecoding." While I might not write every singl
 If you find my projects, PoCs, or write-ups helpful, consider supporting my research!
 
 <p align="left">
-  <a href="[https://buymeacoffee.com/turekkerem](https://buymeacoffee.com/turekkerem)">
+  <a href="https://buymeacoffee.com/turekkerem">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-  <a href="[(https://www.patreon.com/cw/Turekkerem)](https://www.patreon.com/cw/Turekkerem)">
+  <a href="https://www.patreon.com/cw/Turekkerem">
     <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon" alt="Patreon" />
   </a>
 </p>
