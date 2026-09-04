@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Turekkerem&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Offensive_Security%20%7C%20Cryptography-blue?style=flat-square&logo=security" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security%20%7C%20Cryptography%20%7C%20Malware%20Dev-blue?style=flat-square&logo=security" alt="Focus" />
   <img src="https://img.shields.io/badge/TryHackMe-Active_Streak-success?style=flat-square&logo=tryhackme" alt="THM" />
 </p>
 
