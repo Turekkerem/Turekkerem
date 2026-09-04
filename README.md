@@ -37,8 +37,8 @@ I have a deep love for logic puzzles and cryptography, spanning across three mai
 **Bridging Theory and Practice:** 
 I am highly active on [CryptoHack](https://cryptohack.org/user/turekkerem/) and have spent considerable time solving CryptoPals challenges. These platforms taught me how to manipulate data using Python and OpenSSL. Everyone knows *theoretically* how to decrypt an XOR-ciphered text, but writing the code to break modern cipher implementations and understanding exactly where they fail in practice is a different beast entirely.
 
-### 💻 "Vibecoding" & Development
-In my free time, I am a big fan of "vibecoding." While I might not write every single line of a complex script from scratch, I understand language structures deeply enough to correct AI hallucinations, stitch together logic, and build some genuinely cool tools. 
+### "Vibecoding" & Development
+In my free time, I am a fan of "vibecoding." While I might not write every single line of a complex script from scratch, I understand language structures deeply enough to correct AI hallucinations, stitch together logic, and build some genuinely cool tools. 
 * Let's be honest: some of my C++ work is carefully glued-together code that I fully understand, but wouldn't want to type out manually. Huge shoutout to the WinAPI authors for their *incredibly descriptive and intuitive* documentation (yes, that is heavy sarcasm). 
 * Aside from coding, I keep my skills sharp by maintaining my daily streak on TryHackMe.
 
