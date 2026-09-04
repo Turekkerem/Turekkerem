@@ -52,6 +52,7 @@ If you find my projects, PoCs, or write-ups helpful, consider supporting my rese
   <a href="https://buymeacoffee.com/turekkerem">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
+  <br><br>
   <a href="https://www.patreon.com/cw/Turekkerem">
     <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon" alt="Patreon" />
   </a>
