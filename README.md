@@ -8,79 +8,61 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Turekkerem&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Cryptography%20%7C%20Malware%20Dev-blue?style=flat-square&logo=security" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Continuous%20Learning-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security%20%7C%20Cryptography-blue?style=flat-square&logo=security" alt="Focus" />
+  <img src="https://img.shields.io/badge/TryHackMe-Active_Streak-success?style=flat-square&logo=tryhackme" alt="THM" />
 </p>
 
 ---
 
 ## About Me
 
-I am a passionate **Cybersecurity Researcher** with a deep-rooted fascination for the mechanics of offensive security, low-level system internals, and modern cryptography. My approach to security is rooted in the philosophy that to defend effectively, one must understand how systems break and how adversaries operate at the architectural level.
+I am a Cybersecurity student at **AGH University of Science and Technology** and a holder of several industry certifications. My core philosophy is simple: you cannot truly defend a system until you know exactly how to break it. 
 
-Currently, I spend my time engineering custom offensive tooling for research purposes, exploring the frontiers of **Post-Quantum Cryptography (PQC)**, and occasionally engaging in rapid, creative prototyping ("vibecoding") to test out new paradigms. 
-
----
-
-## Core Areas of Expertise & Interest
-
-### Offensive Security & Malware Research
-* **Custom Tooling:** Developing bespoke red-teaming utilities from scratch (Python / C++) to understand API hooking, evasion, and stealth delivery mechanisms.
-* **EDR/AV Evasion Research:** Analyzing telemetry generation, behavioral analysis, and how modern detection engineering responds to non-standard persistence and execution chains.
-* **Windows Internals:** Deep working knowledge of the Windows API, NT internals, process injection techniques, and registry manipulation.
-
-### Cryptography (Classical & Post-Quantum)
-* **Classical & Traditional Cryptography:** Implementation and cryptanalysis of classical ciphers, symmetric encryption standards (AES), and asymmetric primitives (RSA, ECC).
-* **Post-Quantum Cryptography (PQC):** Researching lattice-based cryptography, hash-based signatures, and migration strategies to secure systems against quantum adversaries (NIST PQC standards).
-* **Crypto Downgrade & Protocol Flaws:** Studying downgrade vulnerabilities, implementation flaws, and cryptographic misconfigurations in enterprise software and operating systems and the most common: Block Cipher modes misuse.
+While my [personal website](https://turekkerem.github.io) holds the deep dives into my specific projects, certifications, and write-ups, my GitHub is where I experiment. I spend my time exploring low-level system internals, cryptography, and offensive security concepts to build a better perspective on how adversaries operate.
 
 ---
 
-## Featured Projects & Research
+## What I Do & Why I Do It
 
-Here is a selection of projects showcasing my hands-on experience with low-level programming and system security:
+### Malware Development & Offensive Security
+I study malware development not to cause havoc, but to gain perspective. Knowing exactly where an attacker might hide artifacts in the filesystem or registry, or understanding how they abuse native APIs, fundamentally changes how you view defense. 
+* **The DPAPI Epiphany:** Before getting hands-on, I only conceptually understood how threat actors stole cookies or tokens. Writing the code to extract credentials via DPAPI in a user context was a massive eye-opener that connected the dots between theory and active exploitation.
 
-### 1. Advanced Red Teaming Suite (Timestomp, Crypto Downgrade & Persistence)
-* **Description:** A comprehensive, multi-module system utility built to evaluate endpoint visibility and configuration security on Windows environments.
-* **Key Features:**
-  * **Timestomping:** Advanced manipulation of NTFS Master File Table (MFT) attributes and file timestamps to disrupt forensic timelines.
-  * **Registry-Based Crypto Downgrade:** Programmatically alters system and cryptographic protocol policies via the Windows Registry to force weak cipher suites and legacy protocols.
-  * **Persistence Mechanisms:** Implements robust, multi-tier persistence strategies via scheduled tasks, registry run keys, and service creation to test detection resilience.
-* **Tech Stack:** C++, Win32 API, Native NT APIs.
+### Cryptography & Logic Puzzles
+I have a deep love for logic puzzles and cryptography, spanning across three main eras:
+* **Traditional:** Substitution, transposition ciphers, and historical machines like the Enigma.
+* **Modern (Classical):** RSA, ECC, Diffie-Hellman, hashing algorithms, and block cipher modes.
+* **Post-Quantum (PQC):** Actively following NIST standards like Kyber and exploring backup algorithms like HQC.
 
-### 2. Educational Custom Ransomware Prototype
-* **Description:** Developed strictly for research and academic purposes to study asymmetric encryption implementation, file-system traversal, and key exchange mechanics.
-* **Key Features:**
-  * Multi-threaded high-performance directory traversal and selective target enumeration.
-  * Robust hybrid encryption model utilizing AES-256 for file payloads secured via public-key cryptography.
-  * Memory-wiping routines to ensure cryptographic material does not persist unnecessarily in RAM.
-* **Tech Stack:** C, Cryptographic APIs.
+**Bridging Theory and Practice:** 
+I am highly active on [CryptoHack](https://cryptohack.org/user/turekkerem/) and have spent considerable time solving CryptoPals challenges. These platforms taught me how to manipulate data using Python and OpenSSL. Everyone knows *theoretically* how to decrypt an XOR-ciphered text, but writing the code to break modern cipher implementations and understanding exactly where they fail in practice is a different beast entirely.
 
-### 3. Low-Level Keylogger Framework
-* **Description:** A proof-of-concept user-mode input monitoring framework designed to explore Windows hook mechanics and data exfiltration channels.
-* **Key Features:**
-  * Low-level keyboard hook implementation (`WH_KEYBOARD_LL`) with minimal performance footprint.
-  * Dynamic context logging (active window tracking, timestamping).
-  * Encrypted local buffer caching to protect captured telemetry in transit.
-* **Tech Stack:** C++, Win32 API.
+### 💻 "Vibecoding" & Development
+In my free time, I am a big fan of "vibecoding." While I might not write every single line of a complex script from scratch, I understand language structures deeply enough to correct AI hallucinations, stitch together logic, and build some genuinely cool tools. 
+* Let's be honest: a lot of my C/C++ work is carefully glued-together code that I fully understand, but wouldn't want to type out manually. Huge shoutout to the WinAPI authors for their *incredibly descriptive and intuitive* documentation (yes, that is heavy sarcasm). 
+* Aside from coding, I keep my skills sharp by maintaining my daily streak on TryHackMe.
 
 ---
 
-## Tech Stack & Tools
+## Support My Caffeine Addiction
 
-* **Languages:**  C++, Python, Bash
-* **Operating Systems:** Windows (Win32 API), Linux (Kernel/Userspace)
-* **Security Tooling:** Ghidra, x64dbg, Wireshark, Metasploit, Burp Suite
-* **Cryptographic Libraries:** OpenSSL, OpenSSH, OpenPGP and implementations such as classical PyCryptoDome
+If you find my projects, PoCs, or write-ups helpful, consider supporting my research!
 
+<p align="left">
+  <a href="[https://buymeacoffee.com/turekkerem](https://buymeacoffee.com/turekkerem)">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="[(https://www.patreon.com/cw/Turekkerem)](https://www.patreon.com/cw/Turekkerem)">
+    <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon" alt="Patreon" />
+  </a>
+</p>
 
+**Cryptocurrency (XMR):**
+I also accept Monero for those who prefer privacy. 
+> `41w4gNyTqHZaBRV7fk4JcEQkXt45yvscMPwxt1nFpt3jQbuLQtAq8333oKxgXwX1khKRYgBUS9HuuU6mAiov4qY56ztSPtx`
 
 ---
 
-## Connect With Me
-
-* **GitHub:** [github.com/Turekkerem](https://github.com/Turekkerem)
-* **Page** [turekkerem.github.io](turekkerem.github.io)
-* **Focus:** Always open to discussing advanced cybersecurity research, malware analysis, or cryptographic implementations.
-
-> *"He who does not uderstand how a system fails cannot claim to understand how it works."*
+## Let's Connect
+* **Website:** [turekkerem.github.io](https://turekkerem.github.io)
+* **CryptoHack:** [turekkerem](https://cryptohack.org/user/turekkerem/)
